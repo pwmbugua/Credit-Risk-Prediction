@@ -27,10 +27,10 @@ To assist financial institutions in making data-driven decisions when evaluating
 - Strong prediction for approved loans  
 - Lower recall for rejected loans
 
-# Model Results
+#Model Results
 -Results(result.png)
 
-# Confusion Matrix
+#Confusion Matrix
 Confusion Matrix(confusion_matrix.png) 
 
 #Model
