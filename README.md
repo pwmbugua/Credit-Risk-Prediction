@@ -25,7 +25,13 @@ To assist financial institutions in making data-driven decisions when evaluating
 #Results
 - Accuracy: 78.9%
 - Strong prediction for approved loans  
-- Lower recall for rejected loans  
+- Lower recall for rejected loans
+
+# Model Results
+-Results(result.png)
+
+# Confusion Matrix
+Confusion Matrix(confusion_matrix.png) 
 
 #Model
 - Logistic Regression
